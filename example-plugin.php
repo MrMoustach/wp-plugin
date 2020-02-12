@@ -3,8 +3,8 @@
 Plugin Name: Simplton
 Plugin URI: 
 Description: A simple example of a plugin for ista where u can add a page to admin panel
-Author: Sherlock
-Author URI: http://google.com/
+Author: MrMoustach
+Author URI: https://github.com/MrMoustach/
 Version: 1.0.0
 */
 defined('ABSPATH') or die('This is not meant to be used in scripts !!');
