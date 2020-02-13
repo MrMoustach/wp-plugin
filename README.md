@@ -1,6 +1,6 @@
 # wp-plugin
 a repo dedicated for a wordpress plugin presentation for school(OFPPT Benguerir), here will be some useful links to Follow.
-# utilisation
+# Utilisation
   Telecharger le code en format zip puis installer le sur votre site WordPress;
 # Liens
   <a href='https://developer.wordpress.org/reference/'>Documentation wordpress</a><br>
